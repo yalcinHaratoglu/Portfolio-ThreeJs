@@ -30,7 +30,7 @@ const Navbar = () => {
             href="/"
             className="text-neutral-400 font-bold text-xl hover:text-white transtion-colors"
           >
-            Yalcin
+            Yalçın Haratoğlu
           </a>
           <button
             onClick={toggleMenu}
